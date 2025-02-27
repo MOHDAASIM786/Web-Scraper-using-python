@@ -13,7 +13,7 @@ URL Validation: Validate the entered URL before starting the scrape to ensure ac
 
 Progress Tracking: Real-time progress bar to track the scraping process.
 
-Save Data: Option to save the scraped data as an Excel, CSV, or JSON file.
+Save Data: Option to save the scraped data as an Excel file.
 
 Multi-threaded: Supports multi-threaded scraping for a smoother experience and responsiveness.
 
